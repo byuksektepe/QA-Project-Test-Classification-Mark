@@ -1,8 +1,14 @@
 ## Test Classification Marks For QA Teams
  <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img width="79px" style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
 <br/>
-This project is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a> Copyright (c) 2022 Berkant Yüksektepe.
-<br/>
+This project is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a> 
+
+Copyright (c) 2022 Berkant Yüksektepe.
+
 Test Classification for QA Test Engineers. This project has been developed to facilitate understanding between the QA Team and the developer team. Inspired by the classifications of the SCP Foundation 🖤.
 
 ### The Meanings of the Marks
