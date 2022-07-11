@@ -9,7 +9,7 @@ This project is licensed under a <a href="http://creativecommons.org/licenses/by
 
 Copyright (c) 2022 Berkant Yüksektepe.
 
-Test Classification for QA Test Team/Engineers. This project was developed to enable the Developers and QA Teams to communicate better and to produce higher quality products. Inspired by the classifications of the SCP Foundation 🖤.
+Test Classification for QA Team/Engineers. This project was developed to enable the Developers and QA Teams to communicate better and to produce higher quality products. Inspired by the classifications of the SCP Foundation 🖤.
 
 Rules can be assigned per class, sample rules will be added soon.
 
