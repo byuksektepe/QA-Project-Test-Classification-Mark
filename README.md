@@ -94,7 +94,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Reasons for issuance
    
   - Given to save time when the Test Mark is Undecidable or the test evaluation has not finished.
-  - Must be approved by the entire QA Team before it is issued.
+  - No approbation needed, automatically assigned at test start.
   
   #### Badge Link
    
