@@ -34,7 +34,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
   
    ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
    ```
  </div>
  <br/>
@@ -56,7 +56,7 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   #### Badge Link
   
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
   ```
   
  </div>
@@ -81,7 +81,7 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   #### Badge Link
   
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
   ```
   
  </div>
@@ -99,7 +99,7 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   #### Badge Link
    
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
   ```
    
  </div>
