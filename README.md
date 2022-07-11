@@ -36,7 +36,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
   
    ```
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
    ```
  </div>
  <br/>
@@ -61,7 +61,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
   
   ```
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
   ```
   
  </div>
@@ -89,7 +89,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
   
   ```
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
   ```
   
  </div>
@@ -110,7 +110,7 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
    
   ```
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
   ```
    
  </div>
