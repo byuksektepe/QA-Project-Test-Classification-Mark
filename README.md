@@ -5,7 +5,7 @@
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
 <br/>
-This project is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a> 
+This project is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License.</a> 
 
 Copyright (c) 2022 Berkant Yüksektepe.
 
