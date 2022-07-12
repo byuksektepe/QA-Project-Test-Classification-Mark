@@ -83,7 +83,7 @@ Rules can be assigned per class, sample rules will be added soon.
   - Test sustainability is very low, radical changes/improvements needed.
   - Pages are too dynamic to test, site is untestable.
   - It contains many links and buttons that do not work.
-  - Generally, this sign is given when the site is in too bad a condition to be tested.
+  - Generally, this mark is given when the site is in too bad a condition to be tested.
   - Must be approved by the entire QA Team before it is issued.
   
   #### Badge Link
