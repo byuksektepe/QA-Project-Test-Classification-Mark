@@ -15,6 +15,8 @@ Rules can be assigned per class, sample rules will be added soon.
 
 ### The Meanings and Usage of the Marks
 
+#### Test Class A
+
 <div style="display: flex;">
  <div>
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-a.png"/>
@@ -34,11 +36,14 @@ Rules can be assigned per class, sample rules will be added soon.
   #### Badge Link
   
    ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
    ```
  </div>
  <br/>
  <div>
+ 
+ #### Test Class C
+
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-c.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png"/>
   <p>Test Class C: It occurs of two intertwined circles with "C" in the middle and three arrows in between and three barless arrows pointing inward. The arrows are aligned to the border of the circle. It's means to "A little complicated but still Testable and fit for purpose". Badge color: yellow.</p>
@@ -56,12 +61,15 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   #### Badge Link
   
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
   ```
   
  </div>
   <br/>
  <div>
+ 
+ #### Test Class F
+ 
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-f.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png"/>
   <p>Test Class F: It occurs of two intertwined circles with "F" in the middle and three arrows(Out of circle) in between and six barless arrows pointing inward. The arrows are aligned to the outline of the circle. It's means to "Very complicated, Not testable and off purpose". Badge color: red.</p>
@@ -75,18 +83,21 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   - Test sustainability is very low, radical changes/improvements needed.
   - Pages are too dynamic to test, site is untestable.
   - It contains many links and buttons that do not work.
-  - Generally, this sign is given when the site is in too bad a condition to be tested.
+  - Generally, this mark is given when the site is in too bad a condition to be tested.
   - Must be approved by the entire QA Team before it is issued.
   
   #### Badge Link
   
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
   ```
   
  </div>
   <br/>
   <div>
+  
+  #### Test Class U
+  
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-u.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png"/>
   <p>Test Class U: Contains the same appearance features as Test Class A. The only difference is that there is a question mark in the middle. It is used in tests whose class is not fully determined or decided. Badge color: black.</p>
@@ -94,12 +105,12 @@ https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM
   #### Reasons for issuance
    
   - Given to save time when the Test Mark is Undecidable or the test evaluation has not finished.
-  - Must be approved by the entire QA Team before it is issued.
+  - No approbation needed, automatically assigned at test start.
   
   #### Badge Link
    
   ```
-https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
   ```
    
  </div>
