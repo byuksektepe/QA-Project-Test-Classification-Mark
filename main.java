@@ -1,5 +1,5 @@
-public class TCMS {
-    public static void main(String[] args) {
+public class main {
+    public static void TCMS(String[] args) {
       
         String[] TC_U
           = {"Online"};
