@@ -34,10 +34,15 @@ Rules can be assigned per class, sample rules will be added soon.
   - There should not be more than 5 non-working links and buttons on the site.
   - Must be approved by the entire QA Team before it is issued.
   
-  #### Badge Link
+ #### Badge Link (Default)
   
    ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
+   ```
+ #### Badge Link (Light)
+  
+   ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png" alt="tc-a" /></a>
    ```
  </div>
  <br/>
@@ -60,10 +65,16 @@ Rules can be assigned per class, sample rules will be added soon.
   - There should not be more than 15 non-working links and buttons on the site.
   - Must be approved by the entire QA Team before it is issued.
   
-  #### Badge Link
+ #### Badge Link (Default)
   
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
+  ```
+  
+ #### Badge Link (Light)
+  
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-c.png" alt="tc-c" /></a>
   ```
   
  </div>
@@ -89,10 +100,16 @@ Rules can be assigned per class, sample rules will be added soon.
   - Generally, this mark is given when the site is in too bad a condition to be tested.
   - Must be approved by the entire QA Team before it is issued.
   
-  #### Badge Link
+ #### Badge Link (Default)
   
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
+  ```
+  
+ #### Badge Link (Light)
+  
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-f.png" alt="tc-f" /></a>
   ```
   
  </div>
@@ -111,10 +128,16 @@ Rules can be assigned per class, sample rules will be added soon.
   - Given to save time when the Test Mark is Undecidable or the test evaluation has not finished.
   - No approbation needed, automatically assigned at test start.
   
-  #### Badge Link
+ #### Badge Link (Default)
    
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
+  ```
+  
+ #### Badge Link (Light)
+   
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
   ```
    
  </div>
