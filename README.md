@@ -21,6 +21,7 @@ Rules can be assigned per class, sample rules will be added soon.
  <div>
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-a.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png"/>
   <p>Test Class A: It occurs of two intertwined circles with "A" in the middle and three arrows in between. The arrows are aligned to the middle of the circle. It's means to "Uncomplicated, QA Friendly, Easy to Test and fit for purpose". Badge color: green.</p>
   
   #### Reasons for issuance
@@ -46,6 +47,7 @@ Rules can be assigned per class, sample rules will be added soon.
 
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-c.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-c.png"/>
   <p>Test Class C: It occurs of two intertwined circles with "C" in the middle and three arrows in between and three barless arrows pointing inward. The arrows are aligned to the border of the circle. It's means to "A little complicated but still Testable and fit for purpose". Badge color: yellow.</p>
     
   #### Reasons for issuance
@@ -72,6 +74,7 @@ Rules can be assigned per class, sample rules will be added soon.
  
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-f.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-f.png"/>
   <p>Test Class F: It occurs of two intertwined circles with "F" in the middle and three arrows(Out of circle) in between and six barless arrows pointing inward. The arrows are aligned to the outline of the circle. It's means to "Very complicated, Not testable and off purpose". Badge color: red.</p>
       
   #### Reasons for issuance
@@ -100,6 +103,7 @@ Rules can be assigned per class, sample rules will be added soon.
   
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-u.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png"/>
   <p>Test Class U: Contains the same appearance features as Test Class A. The only difference is that there is a question mark in the middle. It is used in tests whose class is not fully determined or decided. Badge color: black.</p>
   
   #### Reasons for issuance
