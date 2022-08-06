@@ -22,6 +22,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-a.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-a.png"/>
   <p>Test Class A: It occurs of two intertwined circles with "A" in the middle and three arrows in between. The arrows are aligned to the middle of the circle. It's means to "Uncomplicated, QA Friendly, Easy to Test and fit for purpose". Badge color: green.</p>
   
   #### Reasons for issuance
@@ -44,6 +45,11 @@ Rules can be assigned per class, sample rules will be added soon.
    ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png" alt="tc-a" /></a>
    ```
+ #### Badge Link (Dark)
+  
+   ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-a.png" alt="tc-a" /></a>
+   ```
  </div>
  <br/>
  <div>
@@ -53,6 +59,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-c.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-c.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-c.png"/>
   <p>Test Class C: It occurs of two intertwined circles with "C" in the middle and three arrows in between and three barless arrows pointing inward. The arrows are aligned to the border of the circle. It's means to "A little complicated but still Testable and fit for purpose". Badge color: yellow.</p>
     
   #### Reasons for issuance
@@ -76,6 +83,11 @@ Rules can be assigned per class, sample rules will be added soon.
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-c.png" alt="tc-c" /></a>
   ```
+ #### Badge Link (Dark)
+  
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-c.png" alt="tc-c" /></a>
+  ```
   
  </div>
   <br/>
@@ -86,6 +98,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-f.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-f.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-f.png"/>
   <p>Test Class F: It occurs of two intertwined circles with "F" in the middle and three arrows(Out of circle) in between and six barless arrows pointing inward. The arrows are aligned to the outline of the circle. It's means to "Very complicated, Not testable and off purpose". Badge color: red.</p>
       
   #### Reasons for issuance
@@ -112,6 +125,12 @@ Rules can be assigned per class, sample rules will be added soon.
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-f.png" alt="tc-f" /></a>
   ```
   
+ #### Badge Link (Dark)
+  
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-f.png" alt="tc-f" /></a>
+  ```
+  
  </div>
   <br/>
   <div>
@@ -121,9 +140,10 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="180px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-500x500/500x500-tc-u.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png"/>
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png"/>
+  <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-u.png"/>
   <p>Test Class U: Contains the same appearance features as Test Class A. The only difference is that there is a question mark in the middle. It is used in tests whose class is not fully determined or decided. Badge color: black.</p>
   
-  #### Reasons for issuance
+ #### Reasons for issuance
    
   - Given to save time when the Test Mark is Undecidable or the test evaluation has not finished.
   - No approbation needed, automatically assigned at test start.
@@ -138,6 +158,12 @@ Rules can be assigned per class, sample rules will be added soon.
    
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
+  ```
+  
+ #### Badge Link (Light)
+   
+  ```
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-u.png" alt="tc-u" /></a>
   ```
    
  </div>
