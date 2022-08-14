@@ -4,6 +4,8 @@
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-bb"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-box/114x40-bb.png" alt="tc-bb" /></a>
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-wb"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-box/114x40-wb.png" alt="tc-wb" /></a>
 <br/>
 This project is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License.</a> 
 
