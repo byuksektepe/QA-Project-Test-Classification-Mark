@@ -162,7 +162,7 @@ Rules can be assigned per class, sample rules will be added soon.
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
   ```
   
- #### Badge Link (Light)
+ #### Badge Link (Dark)
    
   ```
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-u.png" alt="tc-u" /></a>
