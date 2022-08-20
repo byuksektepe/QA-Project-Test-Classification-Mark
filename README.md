@@ -29,7 +29,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-a.png"/>
   <p>Test Class A: It occurs of two intertwined circles with "A" in the middle and three arrows in between. The arrows are aligned to the middle of the circle. It's means to "Uncomplicated, QA Friendly, Easy to Test and fit for purpose". Badge color: green.</p>
   
-  #### Reasons for issuance
+  #### Reasons for issuance (Full Functional Tests)
    
   - Prepared using OOP, the same items of the page can be changed from a single file.
   - Fields such as footer and navbar are no different on other pages.
@@ -38,6 +38,11 @@ Rules can be assigned per class, sample rules will be added soon.
   - The HTML structure of the page is prepared properly, no unnecessary tags are used.
   - There should not be more than 5 non-working links and buttons on the site.
   - Must be approved by the entire QA Team before it is issued.
+  
+ #### Reasons for issuance (Non Functional Tests)
+ 
+ - System completely gets response code "200" in view results tree (Min 5 Threads, loop 60).
+ - Main page load speed should be less than 3 seconds.
   
  #### Badge Link (Default)
   
@@ -66,7 +71,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-c.png"/>
   <p>Test Class C: It occurs of two intertwined circles with "C" in the middle and three arrows in between and three barless arrows pointing inward. The arrows are aligned to the border of the circle. It's means to "A little complicated but still Testable and fit for purpose". Badge color: yellow.</p>
     
-  #### Reasons for issuance
+  #### Reasons for issuance (Full Functional Tests)
    
   - Prepared using OOP, the same items of the page can be changed from a single file.
   - Fields such as footer and navbar are no different on other pages.
@@ -75,6 +80,11 @@ Rules can be assigned per class, sample rules will be added soon.
   - Test sustainability is low, needs improvement.
   - There should not be more than 15 non-working links and buttons on the site.
   - Must be approved by the entire QA Team before it is issued.
+  
+  #### Reasons for issuance (Non Functional Tests)
+ 
+ - System 85% gets response code "200" in view results tree (Min 5 Threads, loop 60).
+ - Main page load speed should be less than 6 seconds.
   
  #### Badge Link (Default)
   
@@ -105,7 +115,7 @@ Rules can be assigned per class, sample rules will be added soon.
   <img width="114px" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-f.png"/>
   <p>Test Class F: It occurs of two intertwined circles with "F" in the middle and three arrows(Out of circle) in between and six barless arrows pointing inward. The arrows are aligned to the outline of the circle. It's means to "Very complicated, Not testable and off purpose". Badge color: red.</p>
       
-  #### Reasons for issuance
+  #### Reasons for issuance (Full Functional Tests)
    
   - OOP not used, the same items of the page can not be changed from a single file.
   - Fields such as footer and navbar are different on other pages.
@@ -116,6 +126,11 @@ Rules can be assigned per class, sample rules will be added soon.
   - It contains many links and buttons that do not work.
   - Generally, this mark is given when the site is in too bad a condition to be tested.
   - Must be approved by the entire QA Team before it is issued.
+  
+  #### Reasons for issuance (Non Functional Tests)
+ 
+  - System less then 85% gets response code "200" in view results tree (Min 5 Threads, loop 60).
+  - Main page load speed is 10 seconds or more.
   
  #### Badge Link (Default)
   
