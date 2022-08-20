@@ -17,7 +17,7 @@ This project was developed to enable the Developers and QA Teams to communicate 
 
 Rules can be assigned per class, sample rules will be added soon.
 
-### The Meanings and Usage of the Marks
+### The Meanings and Usage of the TC Marks
 
 #### Test Class A
 
