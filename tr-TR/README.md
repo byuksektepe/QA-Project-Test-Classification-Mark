@@ -13,7 +13,7 @@ Bu proje bu lisans ile lisanslandırılmıştır; <a href="http://creativecommon
 
 Copyright (c) 2022 Berkant Yüksektepe.
 
-Bu proje Test Takımları ve Gelişriticiler arasındaki iletişimi güçlendirmek ve ürün kalitesini maximize etmek amacıyla geliştirilmiştir. SCP Vakfının 🖤, sınıflandırmalarından ilham alınmıştır..
+Bu proje Test Takımları ve Geliştiriciler arasındaki iletişimi güçlendirmek ve ürün kalitesini maximize etmek amacıyla geliştirilmiştir. SCP Vakfının 🖤, sınıflandırmalarından ilham alınmıştır.
 
 Sınıf başına kural atanabilir, örnek kurallar yakında eklenecektir.
 
